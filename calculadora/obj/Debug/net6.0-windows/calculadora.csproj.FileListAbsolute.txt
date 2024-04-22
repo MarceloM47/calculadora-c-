@@ -1,0 +1,17 @@
+C:\JK Marcelo\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.exe
+C:\JK Marcelo\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.deps.json
+C:\JK Marcelo\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.runtimeconfig.json
+C:\JK Marcelo\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.dll
+C:\JK Marcelo\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.pdb
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.AssemblyReference.cache
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.calculadora.resources
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.GenerateResource.cache
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfo.cs
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.dll
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\refint\calculadora.dll
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.pdb
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.genruntimeconfig.cache
+C:\JK Marcelo\calculadora\calculadora\obj\Debug\net6.0-windows\ref\calculadora.dll
